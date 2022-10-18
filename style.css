@@ -1,3 +1,35 @@
-selector {
-    propiedad:valor
+
+*{
+    color: red;
+}
+
+h1{
+    color: aquamarine;
+}
+
+p{
+    color: blue;
+}
+
+.titulo-h2{
+    color: aqua;
+}
+#element-for-modify{
+    color: rgb(255, 0, 187);
+}
+
+[cualquier="sii"] {
+    color: blue;
+}
+h2 p {
+    color: aquamarine;
+}
+.h1-class b{
+    color: black;
+}
+.h1-class b span{
+    color: rgb(69, 37, 113);
+}
+.h1-class b:hover{
+    color: rgb(255, 1, 1);
 }
