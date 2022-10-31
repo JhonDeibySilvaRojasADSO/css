@@ -1,6 +1,10 @@
-.contact-form__input:first-child{
-    color: red;
+*{
+    padding:0px ;
+    margin:0px ;
 }
-.contact-form__input--active{
-    color: blue;
+.contact-form__h2{
+    font-size: 5em;
+    background-color: blue;
+    width: 100vw;
+    height: 40vh;
 }
