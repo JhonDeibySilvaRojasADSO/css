@@ -1,12 +1,6 @@
-h1{
+.contact-form__input:first-child{
     color: red;
 }
-.colore-red{
+.contact-form__input--active{
     color: blue;
-}
-[rancio="color-blue"]{
-    color: blue;
-}
-h1{
-    color: gray !important
 }
