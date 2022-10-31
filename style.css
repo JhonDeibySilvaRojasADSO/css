@@ -1,13 +1,13 @@
-.contact-form {
-    font-size: 25px;
+*{
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
 }
-
-.contact-form__h2 {
-    font-size: 2em;
-    font-family: sans-serif;
-    line-height: 1.9;
-    font-weight: normal;
-    color: red;
-    font-family: 'Poor Story', cursive;
-   
+h2{
+    height: 100px;
+    width: 100px;
+}
+p{
+    height: inline;
+    height: 100px;
+    width: 100px;
 }
