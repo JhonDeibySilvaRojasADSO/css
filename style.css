@@ -3,15 +3,23 @@
     font-size: 20px;
     font-weight: 100px;
 }
-
-.contenedor div{
+form{
+    margin: 100px;
+    display: block;
+    background-color: #555;
+    padding: 100px;
     width: 50%;
-    float: right;    
 }
-.primario{
-    background: red;
-}
-.secundario{
-    background: yellow;
+b{
+    padding: 6px;
+    width: 100%;
 }
 
+b::before{
+    content: "me suscribi   ";
+    color: #fff;
+}
+b::after{
+    content: "todo tendencias";
+    color: red;
+}
